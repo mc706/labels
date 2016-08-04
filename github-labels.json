@@ -1,0 +1,198 @@
+[
+    {
+        "name": "agt:android",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:chrome",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:edge",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:firefox",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:ie11",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:ie10",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:ios",
+        "color": "5900AD"
+    },
+    {
+        "name": "agt:safari",
+        "color": "5900AD"
+    },
+    {
+        "name": "bug:bug",
+        "color": "FF0000"
+    },
+    {
+        "name": "bug:layout",
+        "color": "FF0000"
+    },
+    {
+        "name": "bug:library",
+        "color": "FF0000"
+    },
+    {
+        "name": "bug:responsive",
+        "color": "FF0000"
+    },
+    {
+        "name": "bug:security",
+        "color": "FF0000"
+    },
+    {
+        "name": "dis:question",
+        "color": "CC317C"
+    },
+    {
+        "name": "dis:discussion",
+        "color": "CC317C"
+    },
+    {
+        "name": "dis:rfc",
+        "color": "CC317C"
+    },
+    {
+        "name": "env:dev",
+        "color": "f7c6c7"
+    },
+    {
+        "name": "env:prod",
+        "color": "f7c6c7"
+    },
+    {
+        "name": "env:staging",
+        "color": "f7c6c7"
+    },
+    {
+        "name": "ft:feature",
+        "color": "159818"
+    },
+    {
+        "name": "ft:page",
+        "color": "159818"
+    },
+    {
+        "name": "imp:enhancement",
+        "color": "84B6EB"
+    },
+    {
+        "name": "imp:optimization",
+        "color": "84B6EB"
+    },
+    {
+        "name": "imp:refactor",
+        "color": "84B6EB"
+    },
+    {
+        "name": "loc:frontend",
+        "color": "152fd9"
+    },
+    {
+        "name": "loc:library",
+        "color": "152fd9"
+    },
+    {
+        "name": "loc:middleware",
+        "color": "152fd9"
+    },
+    {
+        "name": "loc:database",
+        "color": "152fd9"
+    },
+    {
+        "name": "na:duplicate",
+        "color": "CCCCCC"
+    },
+    {
+        "name": "na:expected",
+        "color": "CCCCCC"
+    },
+    {
+        "name": "na:invalid",
+        "color": "CCCCCC"
+    },
+    {
+        "name": "na:wontfix",
+        "color": "CCCCCC"
+    },
+    {
+        "name": "ops:cloud",
+        "color": "EFF713"
+    },
+    {
+        "name": "ops:deploy",
+        "color": "EFF713"
+    },
+    {
+        "name": "ops:setup",
+        "color": "EFF713"
+    },
+    {
+        "name": "ops:migrate",
+        "color": "EFF713"
+    },
+    {
+        "name": "pm:blocked",
+        "color": "00ff00"
+    },
+    {
+        "name": "pm:inprogress",
+        "color": "00ff00"
+    },
+    {
+        "name": "pm:ready",
+        "color": "00ff00"
+    },
+    {
+        "name": "pm:staged",
+        "color": "00ff00"
+    },
+    {
+        "name": "pm:testing",
+        "color": "00ff00"
+    },
+    {
+        "name": "sev:blocking",
+        "color": "10701B"
+    },
+    {
+        "name": "sev:high",
+        "color": "10701B"
+    },
+    {
+        "name": "sev:low",
+        "color": "10701B"
+    },
+    {
+        "name": "sev:medium",
+        "color": "10701B"
+    },
+    {
+        "name": "ux:assets",
+        "color": "eb6420"
+    },
+    {
+        "name": "ux:copy",
+        "color": "eb6420"
+    },
+    {
+        "name": "ux:design",
+        "color": "eb6420"
+    },
+    {
+        "name": "ux:ux",
+        "color": "eb6420"
+    }
+]
